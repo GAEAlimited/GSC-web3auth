@@ -30,7 +30,7 @@ provider specific to the user and application.
 | :---------------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Multiple Chains` | `REACT`        | [React-EVM-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/multi-chain/react-multi-chain-modal-example) |
 
-#### Ethereum - EVM Based
+#### GSC20 SuperChain - Quad Core EVM Based Ethereum 
 
 | Blockchain | Lang Framework | Directory                                                                                                                                  |
 | :--------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -41,7 +41,7 @@ provider specific to the user and application.
 | `EVM`      | `Angular`      | [Angular-EVM-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/evm/angular-evm-modal-example)       |
 | `EVM`      | `CommonJS`     | [CommonJS-EVM-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/evm/commonjs-evm-modal-example)     |
 
-#### Solana
+#### GSC20 Solana
 
 | Blockchain | Lang Framework | Directory                                                                                                                                       |
 | :--------- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,7 +51,7 @@ provider specific to the user and application.
 | `Solana`   | `Angular`      | [Angular-Solana-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/solana/angular-solana-modal-example)   |
 | `Solana`   | `CommonJS`     | [CommonJS-Solana-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/solana/commonjs-solana-modal-example) |
 
-#### StarkEx
+#### GSC20 StarkEx
 
 | Blockchain | Lang Framework | Directory                                                                                                                                        |
 | :--------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,7 +60,7 @@ provider specific to the user and application.
 | `StarkEx`  | `Vue`          | [Vue-StarkEx-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/starkex/vue-starkex-modal-example)         |
 | `StarkEx`  | `Angular`      | [Angular-StarkEx-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/starkex/angular-starkex-modal-example) |
 
-#### StarkNet
+#### GSC20 StarkNet
 
 | Blockchain | Lang Framework | Directory                                                                                                                                           |
 | :--------- | :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -69,7 +69,7 @@ provider specific to the user and application.
 | `StarkNet` | `Vue`          | [Vue-StarkNet-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/starknet/vue-starknet-modal-example)         |
 | `StarkNet` | `Angular`      | [Angular-StarkNet-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/starknet/angular-starknet-modal-example) |
 
-#### Tezos
+#### GSC20 Tezos
 
 | Blockchain | Lang Framework | Directory                                                                                                                                  |
 | :--------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -78,25 +78,25 @@ provider specific to the user and application.
 | `Tezos`    | `Vue`          | [Vue-Tezos-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/tezos/vue-tezos-modal-example)         |
 | `Tezos`    | `Angular`      | [Angular-Tezos-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/tezos/angular-tezos-modal-example) |
 
-#### Algorand
+#### GSC20 Algorand
 
 | Blockchain | Lang Framework | Directory                                                                                                                                       |
 | :--------- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Algorand` | `REACT`        | [React-Algorand-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/algorand/react-algorand-modal-example) |
 
-#### Aptos
+#### GSC20 Aptos
 
 | Blockchain | Lang Framework | Directory                                                                                                                              |
 | :--------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------- |
 | `Aptos`    | `REACT`        | [React-Aptos-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/aptos/react-aptos-modal-example) |
 
-#### Polkadot
+#### GSC20 Polkadot
 
 | Blockchain | Lang Framework | Directory                                                                                                                                       |
 | :--------- | :------------- | :---------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Polkadot` | `REACT`        | [React-Polkadot-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/polkadot/react-polkadot-modal-example) |
 
-#### ImmutableX
+#### GSC20 ImmutableX
 
 | Blockchain   | Lang Framework | Directory                                                                                                                                              |
 | :----------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -140,7 +140,7 @@ provider specific to the user and application.
 | `AWS Cognito` | `REACT`         | [Cognito-React-Web3Auth-No-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-no-modal-sdk/custom-authentication/cognito-react-no-modal-example)                       |
 | `Custom JWT`  | `REACT-EXPRESS` | [Custom-JWT-React-Express-Web3Auth-No-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-no-modal-sdk/custom-authentication/custom-jwt-react-express-no-modal-example) |
 
-### Aggregate Verifiers
+### GSC20 Aggregate Verifiers
 
 | Auth Providers                            | Lang Framework | Directory                                                                                                                                                                                                                            |
 | :---------------------------------------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

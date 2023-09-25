@@ -24,7 +24,7 @@ provider specific to the user and application.
 
 `@web3auth/modal`
 
-### Blockchain x Framework
+### GSC20 Blockchain x SuperChain Framework
 
 | Blockchain        | Lang Framework | Directory                                                                                                                                        |
 | :---------------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -102,17 +102,17 @@ provider specific to the user and application.
 | :----------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `ImmutableX` | `REACT`        | [React-ImmutableX-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/immutableX/react-immutableX-modal-example/) |
 
-### Browser Extensions
+### GSC20 Browser Extensions
 
 | Browser  | Lang Framework | Directory                                                                                                                                                      |
 | -------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Chrome` | `REACT`        | [Chrome-extension-modal-example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/browser-extensions/chrome-extension-modal-example/) |
 
-## Web3Auth Plug n Play No Modal
+## GSC20 Web3Auth Plug n Play No Modal
 
 `@web3auth/no-modal`
 
-### Blockchains
+### GSC20 Blockchains
 
 | Blockchain   | Lang Framework | Directory                                                                                                                                                                |
 | :----------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -127,7 +127,7 @@ provider specific to the user and application.
 | `ImmutableX` | `REACT`        | [React-ImmutableX-Web3Auth-No-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-no-modal-sdk/immutableX/react-immutableX-no-modal-example/) |
 | `Polkadot`   | `REACT`        | [React-Polkadot-Web3Auth-No-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-no-modal-sdk/polkadot/react-polkadot-no-modal-example/)       |
 
-### Custom Authentication
+### GSC20 Custom Authentication
 
 | Auth Provider | Lang Framework  | Directory                                                                                                                                                                                          |
 | :------------ | :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -148,26 +148,26 @@ provider specific to the user and application.
 | `Google` & `Firebase [GitHub]`            | `REACT`        | [Firebase-Google-Aggregate-React-Web3Auth-No-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-no-modal-sdk/custom-authentication/aggregate-verifiers/firebase-google-aggregate-react-no-modal-example) |
 | `Google` & `Auth0 [EmailPasswordless]`    | `Flutter`      | [Flutter-Google-EmailPasswordless-Flutter-Application](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/flutter/flutter-google-emailpasswordless-example/)                                                                |
 
-### Server Side Verification
+### GSC20 Server Side Verification
 
 | Via               | Lang Framework | Directory                                                                                                                                                                              |
 | :---------------- | :------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Social - Google` | `NEXTJS`       | [SSV-Via-Social-NextJS-No-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-no-modal-sdk/server-side-verification/ssv-via-social-nextjs-no-modal-example) |
 
-### Browser Extensions
+### GSC20 Browser Extensions
 
 | Browser  | Lang Framework | Directory                                                                                                                                                           |
 | -------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Chrome` | `REACT`        | [Chrome-extension-modal-example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-no-modal-sdk/browser-extensions/chrome-extension-no-modal-example) |
 
-### Web3Auth Wagmi Connector
+### GSC20 Web3Auth Wagmi Connector
 
 | Lang Framework | Directory                                                                                                                                                 |
 | :------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | `REACT`        | [React-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/wagmi-connector/wagmi-react-modal-example)                                    |
 | `REACT`        | [React-Example-With-Torus-Plugin](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/wagmi-connector/rainbowkit-react-modal-with-plugin-example) |
 
-## Web3Auth Mobile SDKs
+## GSC20 Web3Auth Mobile SDKs
 
 | SDK                   | Documentation                                                  | Guide                                            | Directory                                                                                                                                                 |
 | :-------------------- | :------------------------------------------------------------- | :----------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -186,7 +186,7 @@ provider specific to the user and application.
 | `iOS`                 | [Documentation](https://web3auth.io/docs/sdk/pnp/ios)          | ---                                              | [iOS-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/ios/ios-example)                                                                |
 | `iOS`                 | ---                                                            | ---                                              | [iOS-Auth0-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/ios/ios-auth0-example)                                                    |
 
-## Web3Auth Gaming SDKs
+## GSC20 Web3Auth Gaming SDKs
 
 | SDK     | Documentation                                           | Guide                                          | Directory                                                                                         |
 | :------ | :------------------------------------------------------ | :--------------------------------------------- | :------------------------------------------------------------------------------------------------ |

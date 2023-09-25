@@ -5,22 +5,9 @@ wallets and applications. GSC20 streamlines the onboarding of both mainstream an
 crypto native users under a minute by providing experiences that they're most
 comfortable with.
 
-With support for all social logins, web & mobile native platforms, wallets and
-other key management methods, Web3Auth results in a standard cryptographic key
-provider specific to the user and application.
+With support for all social logins, web & mobile.
 
-## Important Links
-
-- [Website](https://web3auth.io)
-- [Docs](https://web3auth.io/docs)
-- [Guides](https://web3auth.io/docs/content-hub?type=guides)
-- [SDK / API References](https://web3auth.io/docs/sdk)
-- [Pricing](https://web3auth.io/pricing.html)
-- [Github Discussion Board](https://github.com/orgs/Web3Auth/discussions)
-
-## Examples
-
-## Web3Auth Plug n Play Modal
+Plug n Play Modal
 
 `@web3auth/modal`
 

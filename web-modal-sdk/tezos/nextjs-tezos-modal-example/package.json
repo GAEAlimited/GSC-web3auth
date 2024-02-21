@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@taquito/signer": "^16.2.0",
-    "@taquito/taquito": "^16.2.0",
+    "@taquito/signer": "^19.0.2",
+    "@taquito/taquito": "^19.0.2",
     "@taquito/utils": "^16.2.0",
     "@tezos-core-tools/crypto-utils": "^0.0.7",
     "@web3auth/base": "^7.0.1",

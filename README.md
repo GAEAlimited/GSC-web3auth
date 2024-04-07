@@ -11,13 +11,13 @@ Plug n Play Modal
 
 `@web3auth/modal`
 
-### GSC20 Blockchain x SuperChain Framework
+### GSC20: GAEA $uperChain Xponential Blockchain Technology Framework
 
 | Blockchain        | Lang Framework | Directory                                                                                                                                        |
 | :---------------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------------- |
 | `Multiple Chains` | `REACT`        | [React-EVM-Modal-Example](https://github.com/Web3Auth/web3auth-pnp-examples/tree/main/web-modal-sdk/multi-chain/react-multi-chain-modal-example) |
 
-#### GSC20 SuperChain - Quad Core EVM Based Ethereum 
+#### GSC20: GAEA $uperChain - Quad Core EVM Based Ethereum 
 
 | Blockchain | Lang Framework | Directory                                                                                                                                  |
 | :--------- | :------------- | :----------------------------------------------------------------------------------------------------------------------------------------- |
